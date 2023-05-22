@@ -1,0 +1,11 @@
+{
+    "public": {},
+    "private": {
+        "email_secret": "smtps://hrteam2929@gmail.com:hxmheemqtrfcynio@smtp.gmail.com:465/",
+        "client_id":"d5x7mT9zlY3eKThDeimStMRH81OnYHIvAwXTeeWaYhE",
+        "client_secret":"iMognSdsOY1_X1Vog9_kx1544407dgUYIU1LmVMKth3zUMb0vOA1-cyLdJhMea-Y7VeqaaVlb5fsyro8BIFLdw",
+        "redirect_uri": "http://localhost:3000/oauth",
+        "exchange_api":"32130ddba89302047d04eb82"
+        
+    }
+}
